@@ -6,4 +6,5 @@ exclude =
     settings.py,
     models.py,
     views.py,
+    core
     
