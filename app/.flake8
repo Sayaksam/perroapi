@@ -7,4 +7,5 @@ exclude =
     models.py,
     views.py,
     core
+    app
     
